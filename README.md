@@ -2,7 +2,7 @@
 
 I’m a **React-focused developer** who enjoys building clean, intuitive user interfaces and turning ideas into reliable, maintainable code.
 
-I started out drawn to creative fields like photography and painting, and eventually found that same creativity in coding — designing components, structuring logic, and refining user experience.
+I started out drawn to creative fields like photography and painting, and eventually found that same creativity in coding - designing components, structuring logic, and refining user experience.
 
 ---
 
@@ -31,7 +31,7 @@ I started out drawn to creative fields like photography and painting, and eventu
 ---
 
 ## 🎨 Fun facts about me
-- I’m a **creative geek** at heart — I love capturing memories through my **camera lens** 📸  
+- I’m a **creative geek** at heart. I love capturing memories through my **camera lens** 📸  
 - I design **awesome Minecraft builds** and bring ideas to life block by block 🏰  
 - I dabble in **World of Warcraft transmogs**, crafting whimsical outfits and characters 🧙‍♀️✨  
 - I find inspiration for coding and design in **art, games, and real-world experiences**
